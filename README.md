@@ -16,3 +16,6 @@ Currently the code is set up to take each image individually, find distinct cont
 * Test the model on the test set after training several models to choose the best model
 * Validate the model on a set of test images containing mixed classes and or heterogenous backgrounds
 * Ammend the main code script to output proportions of each class predicted, along with absolute numbers of objects in each class identified, and the prediction confidence.
+
+
+![The Land Institute](meta/TLI_logo.jpg?raw=true "Transforming Agriculture, Perennially")
