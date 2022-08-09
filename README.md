@@ -1,5 +1,13 @@
 # sainfoinSeedAI
 
+## Contributors
+*Mahmut Aydin* and *Bo Meyering*
+
+## Table of Contents (Up-to-date)
+- [Aim](#aim)
+- [Current Capabilities](#current-capabilities)
+- [To Do](#to-do)
+
 ## Aim
 
 We have an image set that contains distinct classes of sainfoin seeds/fruit: `seed`, `pod`, and `split`. These correspond to the three classes that result from processing these legume fruits in a laboratory dehuller. The ease with which sainfoin legume pods can be dehulled and release the seed is an important trait that we want to be able to capture quickly and efficiently through image data. 
