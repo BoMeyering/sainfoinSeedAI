@@ -1,5 +1,10 @@
 # sainfoinSeedAI
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BoMeyering/sainfoinSeedAI/main/meta/TLI_logo.jpg?sanitize=true" width="200" alt="Transforming Agriculture, Perennially">
+</p>
+
+
 ## Aim
 
 We have an image set that contains distinct classes of sainfoin seeds/fruit: `seed`, `pod`, and `split`. These correspond to the three classes that result from processing these legume fruits in a laboratory dehuller. The ease with which sainfoin legume pods can be dehulled and release the seed is an important trait that we want to be able to capture quickly and efficiently through image data. 
@@ -18,4 +23,4 @@ Currently the code is set up to take each image individually, find distinct cont
 * Ammend the main code script to output proportions of each class predicted, along with absolute numbers of objects in each class identified, and the prediction confidence.
 
 
-![The Land Institute](meta/TLI_logo.jpg?raw=true "Transforming Agriculture, Perennially")
+#![The Land Institute](meta/TLI_logo.jpg?raw=true "Transforming Agriculture, Perennially")
